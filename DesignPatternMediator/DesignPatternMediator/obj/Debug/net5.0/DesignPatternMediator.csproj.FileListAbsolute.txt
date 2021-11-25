@@ -1,0 +1,16 @@
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\bin\Debug\net5.0\DesignPatternMediator.exe
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\bin\Debug\net5.0\DesignPatternMediator.deps.json
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\bin\Debug\net5.0\DesignPatternMediator.runtimeconfig.json
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\bin\Debug\net5.0\DesignPatternMediator.runtimeconfig.dev.json
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\bin\Debug\net5.0\DesignPatternMediator.dll
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\bin\Debug\net5.0\ref\DesignPatternMediator.dll
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\bin\Debug\net5.0\DesignPatternMediator.pdb
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\obj\Debug\net5.0\DesignPatternMediator.csproj.AssemblyReference.cache
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\obj\Debug\net5.0\DesignPatternMediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\obj\Debug\net5.0\DesignPatternMediator.AssemblyInfoInputs.cache
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\obj\Debug\net5.0\DesignPatternMediator.AssemblyInfo.cs
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\obj\Debug\net5.0\DesignPatternMediator.csproj.CoreCompileInputs.cache
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\obj\Debug\net5.0\DesignPatternMediator.dll
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\obj\Debug\net5.0\ref\DesignPatternMediator.dll
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\obj\Debug\net5.0\DesignPatternMediator.pdb
+D:\PluralSight\DesignPatternMediator\DesignPatternMediator\DesignPatternMediator\obj\Debug\net5.0\DesignPatternMediator.genruntimeconfig.cache
